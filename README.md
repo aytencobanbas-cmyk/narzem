@@ -1,0 +1,2 @@
+# narzem
+okul dersim
